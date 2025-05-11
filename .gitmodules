@@ -10,3 +10,7 @@
 [submodule "port"]
 	path = port
 	url = ../windows-port
+[submodule "operating_system"]
+	path = operating_system
+	url = ../android-operating_system
+	branch = main
